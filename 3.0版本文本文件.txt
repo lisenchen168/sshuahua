@@ -3,3 +3,4 @@
 央视频道,#genre#
 💞电影频道,#genre#
 aiai,https://c1.rrcdnbf3.com/video/jiemi2024/TC/index.m3u8
+lv, https://lsbbf2.com/20240804/9xz9l8Lz/index.m3u8
