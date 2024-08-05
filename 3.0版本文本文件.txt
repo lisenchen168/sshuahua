@@ -2,13 +2,4 @@
 苏州4K超清,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 央视频道,#genre#
 💞电影频道,#genre#
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
-怡寳影院,http://43.138.170.29:35455/douyu/434971
-神乐影院,http://43.138.170.29:35455/douyu/85894
-苹果影院,http://43.138.170.29:35455/douyu/2793084
-特辑影院,http://43.138.170.29:35455/douyu/3637778
-华语电影,http://43.138.170.29:35455/douyu/3928
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-经典电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+aiai,https://gnxlsp.873044.com:51443/exclusive/2024-07-30/41747babeff26f40d811e7bdcbfc88cb1721289575116-b846fa290f4d48b99af1fda79fe922d5/index.m3u8
