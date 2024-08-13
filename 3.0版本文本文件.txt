@@ -971,7 +971,7 @@ BESTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8#http://117
 💞电影频道,#genre#
 aiai,https://c1.rrcdnbf3.com/video/jiemi2024/TC/index.m3u8
 lv,https://lsbbf2.com/20240804/9xz9l8Lz/index.m3u8
-💫会员频道_8642,#genre#
+💫会员频道,#genre#
 松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 松视2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
 香蕉台,https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
