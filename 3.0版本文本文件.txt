@@ -109,7 +109,15 @@ TVB明珠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fs
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 鳳凰衛視中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 鳳凰衛視資訊台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
-
+香港测试2,#genre#
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路18』
+明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8$LR•IPV4『线路10』
+东森电影,https://ushls.ballbar.net/ettvmovie/playlist-12.m3u8a?t=1722404257&token=6232000d02626542f511bdfdd8efd9ff
+三立都会台,https://ushls.ballbar.net/sanlidouhui_twn/playlist-12.m3u8a?t=1722404413&token=e0c05b02684a81827b6006be6a31adb8
+TVBS news,https://ushls.ballbar.net/tvbs_n/playlist-12.m3u8a?t=1722404514&token=013b06def9d975fbd2c9c04b0e1835c6
+中天亚洲台,https://ushls.ballbar.net/ctiasia_twn/playlist-12.m3u8a?t=1722404716&token=15a69eee38792418a28e8d2431ac257f
+寰宇新闻台,https://ushls.ballbar.net/huanyuxinwen_twn/playlist-12.m3u8a?t=1722404935&token=bb92fa904d40ab573c349fb82e03ccbc
 湾湾,#genre#
 三立新闻台,http://59.125.101.122:8080/live/soooli0715.m3u8
 TVBS,http://pili-live-hdl.qhmywl.com:80/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
