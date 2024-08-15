@@ -978,7 +978,8 @@ BESTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8#http://117
 恐怖地带,http://diyp.top/huya.php?id=16741179
 💞电影频道,#genre#
 aiai,https://c1.rrcdnbf3.com/video/jiemi2024/TC/index.m3u8
-lv,https://lsbbf2.com/20240804/9xz9l8Lz/index.m3u8
+riria,hhd800.com@WA-530.mp4
+http://127.0.0.1:36473/%252Fstorage%252Femulated%252F0%252FAndroid%252Fdata%252Fcom.hiker.youtoo%252Ffiles%252FDocuments%252Fmagnet%252Fhhd800.com%2540WA-530%252Fhhd800.com%2540WA-530.mp4
 💫会员频道,#genre#
 ZIJIAN,https://fc.maa1804.com/g/gxefjnwrpd/gxefjnwrpd.m3u8
 ZIJI2,https://cdn-bgocihpmovcae3c6b49a0959a83az1b8.streamfastpro.com/c65bdf33e2956ba5850d775cd35daece/1/2/umo-XZKHPHsgKyfU_7rDcg/umo-XZKHPHsgKyfU_7rDcg.m3u8
