@@ -650,8 +650,7 @@ FC2PPV-1235209,https://vip1.slbfsl.com/20220818/XMCWmYIz/index.m3u8
 3,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e9213006a4603929a393/playlist.m3u8
 4,https://d862cp.cdnedge.live/file/avple-images/hls/61a28828fe8a567bb90ec280/playlist.m3u8
 5,https://d862cp.cdnedge.live/file/avple-images/hls/61a52595a992bd3d5c3eb61b/playlist.m3u8
-🔞麻豆映画3,#genre#
-1,https://47b61.cdnedge.live/file/avple-images/hls/608afb30d7fc804f2b42417a/playlist.m3u8
+🔞麻豆映画1,https://47b61.cdnedge.live/file/avple-images/hls/608afb30d7fc804f2b42417a/playlist.m3u8
 2,https://47b61.cdnedge.live/file/avple-images/hls/608e46f341c89c0d103057e8/playlist.m3u8
 3,https://47b61.cdnedge.live/file/avple-images/hls/608f804ee460e77face48d70/playlist.m3u8
 4,https://47b61.cdnedge.live/file/avple-images/hls/6093b2e9caa9c843e1f9864f/playlist.m3u8
