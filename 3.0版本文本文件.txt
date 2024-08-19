@@ -624,7 +624,34 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-
+一柱擎天,#genre#
+--1,http://200.194.238.229:8000/udp/227.0.0.64:1234
+--2,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+--3,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+1,https://201806.53didi.com/20190226/14/1/xml/91_8348bc3772bd495fed9c1adf5d6be7f6.mp4
+10,https://201806.53didi.com/20181128/8/1/xml/91_dfea7ea5d25e484f98d0d640c593c877.mp4
+100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
+101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
+11,https://201806.53didi.com/20181126/1/1/xml/91_ea854a0523a74a08c10089c203a5ab6b.mp4
+12,https://201806.53didi.com/20181126/1/1/xml/91_e6a45ee1ecd14c71d6f851c149b4a7c0.mp4
+13,https://2.ddyunbo.com/20191008/3EPGwWiO/index.m3u8
+14,https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
+15,https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
+16,https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
+17,https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
+18+_1,http://05b.johwe.com/live/cx_355158.flv
+18+_10,https://al.xadingli.cn/7702/live/images/ea4f8ff74e0844bf8abd4260842b1a9d
+18+_11,https://al.xadingli.cn/7702/live/images/c0d60b6eedfd0fff8579e9e6db4d3e91
+18+_12,http://03b.cqrunli.com/live/cx_356149.flv?auth_key=1645179784-30002-0-962e3e8ac054e6b8e173ecd681b0a14a
+18+_2,http://05b.johwe.com/live/cx_355158.flv
+18+_3,http://04b.cqrunli.com/live/cx_351112.flv
+18+_4,https://al.xadingli.cn/7702/live/images/694a45d38fd0b8111f6600daf46d7815
+18+_5,https://al.xadingli.cn/7702/live/images/58404fa025eb4991a29b35441ba528c7
+18+_6,https://al.xadingli.cn/7702/live/images/0e6fbe3fc72b7d341ff0c5438c6bdff1
+18+_7,http://02b.cqrunli.com/live/cx_349138.flv?auth_key=1645185191-56330-0-fe8a914436d1d7223f269a4eb5a057d7
+18+_8,http://01b.cqrunli.com/live/cx_357044.flv?auth_key=1645185220-41868-0-a8c484a9531f93249ae5cec1475a8e96
+18+_9,http://03b.cqrunli.com/live/cx_356149.flv?auth_key=1645179784-30002-0-962e3e8ac054e6b8e173ecd681b0a14a
+18,https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
 
 
 💞电影频道_8642,#genre#
