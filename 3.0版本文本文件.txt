@@ -625,30 +625,57 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 一柱擎天_8642,#genre#
-1,https://201806.53didi.com/20190226/14/1/xml/91_8348bc3772bd495fed9c1adf5d6be7f6.mp4
-10,https://201806.53didi.com/20181128/8/1/xml/91_dfea7ea5d25e484f98d0d640c593c877.mp4
-100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
-101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
-11,https://201806.53didi.com/20181126/1/1/xml/91_ea854a0523a74a08c10089c203a5ab6b.mp4
-12,https://201806.53didi.com/20181126/1/1/xml/91_e6a45ee1ecd14c71d6f851c149b4a7c0.mp4
-13,https://2.ddyunbo.com/20191008/3EPGwWiO/index.m3u8
-14,https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
-15,https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
-16,https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
-17,https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
-18+_1,http://05b.johwe.com/live/cx_355158.flv
-18+_10,https://al.xadingli.cn/7702/live/images/ea4f8ff74e0844bf8abd4260842b1a9d
-18+_11,https://al.xadingli.cn/7702/live/images/c0d60b6eedfd0fff8579e9e6db4d3e91
-18+_12,http://03b.cqrunli.com/live/cx_356149.flv?auth_key=1645179784-30002-0-962e3e8ac054e6b8e173ecd681b0a14a
-18+_2,http://05b.johwe.com/live/cx_355158.flv
-18+_3,http://04b.cqrunli.com/live/cx_351112.flv
-18+_4,https://al.xadingli.cn/7702/live/images/694a45d38fd0b8111f6600daf46d7815
-18+_5,https://al.xadingli.cn/7702/live/images/58404fa025eb4991a29b35441ba528c7
-18+_6,https://al.xadingli.cn/7702/live/images/0e6fbe3fc72b7d341ff0c5438c6bdff1
-18+_7,http://02b.cqrunli.com/live/cx_349138.flv?auth_key=1645185191-56330-0-fe8a914436d1d7223f269a4eb5a057d7
-18+_8,http://01b.cqrunli.com/live/cx_357044.flv?auth_key=1645185220-41868-0-a8c484a9531f93249ae5cec1475a8e96
-18+_9,http://03b.cqrunli.com/live/cx_356149.flv?auth_key=1645179784-30002-0-962e3e8ac054e6b8e173ecd681b0a14a
-18,https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
+一本道,#genre#
+一本道 720p 01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
+一本道 720p 02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
+一本道 720p 03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
+一本道 720p 04,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
+一本道 720p 05,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_193-1pon/index.m3u8
+一本道 720p 06,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_004-1pon/index.m3u8
+一本道 720p 07,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/111915_192-1pon/index.m3u8
+一本道 720p 08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/110615_185-1pon/index.m3u8
+一本道 720p 09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/092315_158-1pon/index.m3u8
+一本道 720p 10,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090515_148-1pon/index.m3u8
+一本道 720p 11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090415_147-1pon/index.m3u8
+一本道 720p 12,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090215_146-1pon/index.m3u8
+一本道 720p 13,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082715_142-1pon/index.m3u8
+一本道 720p 14,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082515_141-1pon/index.m3u8
+一本道 720p 15,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082215_140-1pon/index.m3u8
+一本道 720p 16,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081815_137-1pon/index.m3u8
+一本道 720p 17,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081615_136-1pon/index.m3u8
+一本道 720p 18,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081515_135-1pon/index.m3u8
+一本道 720p 19,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+一本道 720p 20,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081115_131-1pon/index.m3u8
+一本道 720p 21,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111615_191-1pon/index.m3u8
+一本道 720p 22,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111415_190-1pon/index.m3u8
+一本道 720p 23,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111215_188-1pon/index.m3u8
+一本道 720p 24,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110715_186-1pon/index.m3u8
+一本道 720p 25,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110515_184-1pon/index.m3u8
+一本道 720p 26,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/103115_181-1pon/index.m3u8
+一本道 720p 27,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102415_177-1pon/index.m3u8
+一本道 720p 28,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102215_184-1pon/index.m3u8
+一本道 720p 29,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_175-1pon/index.m3u8
+一本道 720p 30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_001-1pon/index.m3u8
+一本道 720p 31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
+一本道 720p 32,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
+一本道 720p 33,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100715_167-1pon/index.m3u8
+一本道 720p 34,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
+一本道 720p 35,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100115_163-1pon/index.m3u8
+一本道 720p 36,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092615_161-1pon/index.m3u8
+一本道 720p 37,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092515_160-1pon/index.m3u8
+一本道 720p 38,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091915_156-1pon/index.m3u8
+一本道 720p 39,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091815_155-1pon/index.m3u8
+一本道 720p 40,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
+一本道 720p 41,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091115_151-1pon/index.m3u8
+一本道 720p 42,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091015_150-1pon/index.m3u8
+一本道 720p 43,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/090815_149-1pon/index.m3u8
+一本道 720p 44,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
+一本道 720p 45,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
+一本道 720p 46,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120515_202/index.m3u8
+一本道 720p 47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120415_201/index.m3u8
+一本道 720p 48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
+一本道 720p 49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
+一本道 720p 50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
 
 
 💞电影频道_8642,#genre#
