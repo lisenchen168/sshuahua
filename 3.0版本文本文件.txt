@@ -625,7 +625,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 一柱擎天_8642,#genre#
-一本道,#genre#
 一本道 720p 01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
 一本道 720p 02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
 一本道 720p 03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
