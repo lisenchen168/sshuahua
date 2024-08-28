@@ -672,9 +672,9 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 一本道 720p 45,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
 一本道 720p 46,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120515_202/index.m3u8
 一本道 720p 47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120415_201/index.m3u8
-一本道 720p 48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
-一本道 720p 49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
-一本道 720p 50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
+一本 720p 48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
+一本 720p 49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
+一本 720p 50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
 
 
 💞电影频道_8642,#genre#
@@ -687,20 +687,20 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 一本道_294,https://vip4.ddyunbo.com/20191112/qEl4l9Wn/index.m3u8
 一本道_295,https://vip4.ddyunbo.com/20191203/T0WINSep/index.m3u8
 一本道_296,https://vip4.ddyunbo.com/20191130/8WzWvM7O/index.m3u8
-🔞亚洲无码FC2PPV-1226584,https://vip1.slbfsl.com/20220818/nLdvr4w2/index.m3u8
+亚洲无码FC2PPV-1226584,https://vip1.slbfsl.com/20220818/nLdvr4w2/index.m3u8
 FC2PPV-1226584,https://aosikazy12.com/20220929/Y3kiFgyI/index.m3u8
 FC2PPV-1226584,https://vod3.ttbfp5.com/20230403/6MEOTpkY/index.m3u8
 FC2PPV-1235209,https://vip1.slbfsl.com/20220818/XMCWmYIz/index.m3u8
 人兽1,https://siwazywcdn2.com:5278/zhongkouwei/lRYqg8kp/index.m3u8
 人兽2,https://siwazywcdn2.com:5278/zhongkouwei/unvEe1wP/index.m3u8
 人兽3,https://siwazywcdn2.com:5278/zhongkouwei/t8Z7Lhs4/index.m3u8
-🔞麻豆映画50,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e6ca3006a4603929a38d/playlist.m3u8
+麻画50,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e6ca3006a4603929a38d/playlist.m3u8
 1,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e77d3006a4603929a38f/playlist.m3u8
 2,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e8e53006a4603929a392/playlist.m3u8
 3,https://d862cp.cdnedge.live/file/avple-images/hls/61a0e9213006a4603929a393/playlist.m3u8
 4,https://d862cp.cdnedge.live/file/avple-images/hls/61a28828fe8a567bb90ec280/playlist.m3u8
 5,https://d862cp.cdnedge.live/file/avple-images/hls/61a52595a992bd3d5c3eb61b/playlist.m3u8
-🔞麻豆映画1,https://47b61.cdnedge.live/file/avple-images/hls/608afb30d7fc804f2b42417a/playlist.m3u8
+麻画1,https://47b61.cdnedge.live/file/avple-images/hls/608afb30d7fc804f2b42417a/playlist.m3u8
 2,https://47b61.cdnedge.live/file/avple-images/hls/608e46f341c89c0d103057e8/playlist.m3u8
 3,https://47b61.cdnedge.live/file/avple-images/hls/608f804ee460e77face48d70/playlist.m3u8
 4,https://47b61.cdnedge.live/file/avple-images/hls/6093b2e9caa9c843e1f9864f/playlist.m3u8
