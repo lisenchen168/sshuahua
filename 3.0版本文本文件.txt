@@ -776,6 +776,16 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 每日HD_8642,#genre#
+1,https://surrit.com/808196ee-980a-4445-9450-4686877b36c9/1280x720/video.m3u8
+2,https://surrit.com/808196ee-980a-4445-9450-4686877b36c9/1280x720/video.m3u8
+3,https://surrit.com/c80b0c82-a0a7-42d3-842c-a20b77a9f0ad/1280x720/video.m3u8
+4,https://surrit.com/9259e8a8-c387-4fe1-aa8a-f35d499a17a5/1280x720/video.m3u8
+5,https://surrit.com/9259e8a8-c387-4fe1-aa8a-f35d499a17a5/1280x720/video.m3u8
+6,https://surrit.com/c25ea101-4110-4a87-9ad3-fde6f5a2c6d4/1280x720/video.m3u8
+7,https://surrit.com/71385281-39ea-40c5-8152-1eb91bdc7f07/1280x720/video.m3u8
+8,https://surrit.com/8693eeeb-022e-4161-bc8a-01ce44f4e61b/1280x720/video.m3u8
+9,https://surrit.com/fc24c2df-22fe-4a72-84a6-1d0cda7099e1/1280x720/video.m3u8
+10,https://surrit.com/f0684d47-6ef8-4545-8bdc-5b46f8155248/1280x720/video.m3u8
 5,https://surrit.com/4ab953b6-dc0d-495f-9dd4-15f057b9533c/1280x720/video.m3u8
 6,https://surrit.com/8a883731-9333-4668-9641-0d4f16311e3c/1280x720/video.m3u8
 7,https://surrit.com/ebed87cf-a684-4e91-984f-a289c1590eaa/1280x720/video.m3u8
