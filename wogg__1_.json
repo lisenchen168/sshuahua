@@ -1,0 +1,46 @@
+{
+  "urls": [
+        {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "进文采"
+    },{
+      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/%E9%A5%AD%E5%A4%AA%E7%A1%ACjson%E9%85%8D%E7%BD%AE241025.txt",
+      "name": "大都会"
+    }
+    {
+      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/8K.json",
+      "name": "瑶瑶4k影院"
+    },
+    {
+      "url": "https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp",
+      "name": "选萌米"
+    },
+    {
+      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/JCG/8K8.json?ref_type=heads",
+      "name": "瑶瑶自嗨影院"
+    },
+    {
+      "url": "https://gzy.lzo.us.kg",
+      "name": "寰球影院"
+    },{
+      "name": "芳龄18直连",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json"
+    },{
+      "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json",
+      "name": "进老mao"
+    },{
+      "url": "https://10849.kstore.space/qielive.json",
+      "name": "成仁之位"
+    },{
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AngelkookLJ/Ak-tvbox/main/Akbox.json",
+      "name": "MISSmv(🛩️)"
+    },
+    {      
+      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+      "name": "爱啪55(🛩️)"
+    },
+    {
+      "url": "https://10849.kstore.space/dase.json",
+      "name": "进直播(🛩️)"
+    }  ]
+}
