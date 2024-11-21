@@ -115,7 +115,18 @@
 28,https://surrit.com/69a3cbab-1414-433c-99c4-d0157e3c61cf/1080p/video.m3u8
 
 
-1107,#genre#
+1121,#genre#
+1,https://surrit.com/d1c1e58b-42e4-450d-8f31-2d8e28b55239/1280x720/video.m3u8
+2,https://surrit.com/35a961c9-e684-4dcf-9e76-79a617110616/1280x720/video.m3u8
+3,https://surrit.com/0b5aee98-f23b-4dcd-9098-b75254918589/1280x720/video.m3u8
+4,https://surrit.com/db388946-c54e-43b3-a40f-402b977f9dea/1280x720/video.m3u8
+5,https://surrit.com/0c54cb2a-63d7-4acc-b20f-2c6d1962f9f0/1280x720/video.m3u8
+6,https://surrit.com/19bb865e-4c7c-4d65-a01b-5e6958dc18e0/1280x720/video.m3u8
+7,https://surrit.com/94df1ccd-4676-40fb-9830-77b94730bede/1280x720/video.m3u8
+8,https://surrit.com/1b2bbce1-2bf1-4753-a431-d66501ad77de/1280x720/video.m3u8
+9,https://surrit.com/a1afa184-e60a-49a1-b2da-bd73004ec92d/1280x720/video.m3u8
+10,https://surrit.com/785e5249-eb0d-4859-b3b4-a90e1014153e/1280x720/video.m3u8
+11,https://surrit.com/0c52d957-7111-4f33-a8b1-49c9dbaa5586/1280x720/video.m3u8
 1,https://surrit.com/869108e2-9b7f-426f-a648-b484e7201a91/1920x1080/video.m3u8
 2,https://surrit.com/30c29897-b842-4657-b5ce-01962887db9c/1080p/video.m3u8
 3,https://surrit.com/a88bd36f-1c21-4758-ba0b-e09ea22ddd5a/1080p/video.m3u8
