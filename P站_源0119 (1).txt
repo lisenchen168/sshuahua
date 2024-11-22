@@ -116,17 +116,26 @@
 
 
 1121,#genre#
-1,https://surrit.com/d1c1e58b-42e4-450d-8f31-2d8e28b55239/1280x720/video.m3u8
-2,https://surrit.com/35a961c9-e684-4dcf-9e76-79a617110616/1280x720/video.m3u8
-3,https://surrit.com/0b5aee98-f23b-4dcd-9098-b75254918589/1280x720/video.m3u8
-4,https://surrit.com/db388946-c54e-43b3-a40f-402b977f9dea/1280x720/video.m3u8
-5,https://surrit.com/0c54cb2a-63d7-4acc-b20f-2c6d1962f9f0/1280x720/video.m3u8
-6,https://surrit.com/19bb865e-4c7c-4d65-a01b-5e6958dc18e0/1280x720/video.m3u8
-7,https://surrit.com/94df1ccd-4676-40fb-9830-77b94730bede/1280x720/video.m3u8
-8,https://surrit.com/1b2bbce1-2bf1-4753-a431-d66501ad77de/1280x720/video.m3u8
-9,https://surrit.com/a1afa184-e60a-49a1-b2da-bd73004ec92d/1280x720/video.m3u8
-10,https://surrit.com/785e5249-eb0d-4859-b3b4-a90e1014153e/1280x720/video.m3u8
-11,https://surrit.com/0c52d957-7111-4f33-a8b1-49c9dbaa5586/1280x720/video.m3u8
+113,https://surrit.com/a65e64d3-22df-4a73-9bb7-6a7ab3a845ea/1280x720/video.m3u8
+114,https://surrit.com/8dd7ba4a-c06e-4646-b688-71bd2b5ea7c1/1280x720/video.m3u8
+115,https://surrit.com/3d21bd3c-9ac2-4b53-96a1-6f3ad777b5f6/1280x720/video.m3u8
+116,https://surrit.com/b964406c-f82f-414d-9c3f-0933968ed6db/1280x720/video.m3u8
+117,https://surrit.com/ac1c05d4-fa8a-48c3-8931-0de3819bc6b6/1280x720/video.m3u8
+118,https://surrit.com/f89f1d68-0c8f-4eca-a6d0-5c465904d219/1280x720/video.m3u8
+119,https://surrit.com/cbdbdfe9-e8b4-4010-90b0-2c8b92f806bf/1280x720/video.m3u8
+120,https://surrit.com/b505037d-35c5-46a4-ac4b-e3716a246e7d/playlist.m3u8
+121,https://surrit.com/8fc34fb9-6ba4-4d3f-a370-84e1c58b4840/1280x720/video.m3u8
+122,https://surrit.com/bf23cc9e-bd3b-401e-85ee-dcce5c480309/720p/video.m3u8
+123,https://surrit.com/ee9bc963-da2e-4775-9de5-f7d78e17e5f3/1280x720/video.m3u8
+124,https://surrit.com/357ec3ff-c1f4-431e-8798-b2dde0e10b27/1280x720/video.m3u8
+125,https://surrit.com/d0ccfc04-1926-4495-ae4c-4b937c9e6c55/1080p/video.m3u8
+126,https://surrit.com/6d294f57-6142-41af-9cfa-f6269c6e38aa/1080p/video.m3u8
+127,https://surrit.com/def761bd-4f4d-4b66-9612-9540e2c77342/1280x720/video.m3u8
+128,https://surrit.com/34c30088-53fc-4e9e-853e-5ecb2a769d2b/1080p/video.m3u8
+129,https://surrit.com/669a7875-c764-47ee-b3a4-de27fa5ea9ab/1080p/video.m3u8
+130,https://surrit.com/ca5766bb-4930-4415-a098-01aed4e1562c/1080p/video.m3u8
+131,https://surrit.com/28d8c6f4-510b-4460-ada9-0902c2c94946/1080p/video.m3u8
+132,https://surrit.com/9e7d7a35-c708-4b09-998f-c1de2408aa7c/1280x720/video.m3u8
 1,https://surrit.com/869108e2-9b7f-426f-a648-b484e7201a91/1920x1080/video.m3u8
 2,https://surrit.com/30c29897-b842-4657-b5ce-01962887db9c/1080p/video.m3u8
 3,https://surrit.com/a88bd36f-1c21-4758-ba0b-e09ea22ddd5a/1080p/video.m3u8
