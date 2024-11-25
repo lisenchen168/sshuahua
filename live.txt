@@ -1335,6 +1335,7 @@ CCTV17,http://114.228.152.34:8888/rtp/239.49.1.7:6000
 CCTV17,http://110.177.146.152:888/udp/239.1.1.23:8023$订阅源
 CCTV17,http://121.227.243.195:7766/rtp/239.49.1.7:6000
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
+测试卫视,#genre#
 湖南卫视,http://221.232.12.42:8888/rtp/239.254.96.139:8908
 湖南卫视,http://118.79.7.143:6000/rtp/226.0.2.143:9056
 湖南卫视,http://171.213.198.30:8096/udp/239.93.0.88:5140
@@ -2715,6 +2716,7 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 湖南电视剧,http://218.76.32.193:9901/tsfile/live/1013_1.m3u8
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
 湖南电视剧,http://hunan-telecom.iptv.imgjpg.freewebhostmost.com:9901/tsfile/live/23026_1.m3u8
+测试港澳台,#genre#
 凤凰中文,http://sss918.synology.me:8000/rtp/233.50.200.42:5140
 凤凰中文,http://60.164.128.167:8029/rtp/239.255.30.50:8231$|1920x1080
 凤凰中文,http://60.176.53.153:9999/udp/233.50.200.42:5140
@@ -2998,6 +3000,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,http://211.72.65.236:8573/.m3u8$订阅源
 民视,rtmp://f13h.mine.nu/sat/tv051
+测试海外,#genre#
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
@@ -3052,7 +3055,7 @@ KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 30A Music,http://30a-tv.com/music.m3u8
 Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-
+测试兴趣台,#genre#
 CCTV兵器科技,http://xuys.top:8888/udp/225.1.2.166:5002$天津联通 组播
 CCTV兵器科技,http://www.furymax.top:85/rtp/239.69.1.79:10114
 CCTV兵器科技,http://www.jiaocj.xyz:4000/udp/239.49.8.88:8000
