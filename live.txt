@@ -3225,6 +3225,25 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/7722576rWHyhVf6Z_2000.m3u8
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 测试AKTV,#genre#
+1,https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8									
+2,https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8									
+3,http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8									
+4,https://tv.ensonhaber.com/trthaber/trthaber.m3u8									
+5,https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b									
+6,https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8									
+7,https://tv.ensonhaber.com/haberturk/haberturk.m3u8									
+8,https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8									
+9,https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8									
+10,https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8									
+11,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/hglobal/hglobal.m3u8									
+12,https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web									
+13,https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8									
+14,https://ythls.armelin.one/video/X_EWYemclKA.m3u8									
+15,https://new.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8									
+16,https://koprulu.global.ssl.fastly.net/ythls?video_id=X_EWYemclKA.m3u8									
+17,https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/cnnturk.m3u8									
+18,https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8									
+
 CNN INT,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 animetv,https://eja.tv/play/?https://stmv1.srvif.com/animetv/animetv/playlist.m3u8#ad82ddef2bb36a57e9191e7050924e67a3cee761e02b35a7d64de67b652c0ec6
 tv,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
