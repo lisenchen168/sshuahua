@@ -692,7 +692,7 @@
         "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
-    "spider": "https://jihulab.com/Smdy-OvO/online/-/blob/main/Pizazz.jar",
+    "spider": "./Pizazz.jar",
     "logo": "./OTHER/.logo.jpg",
     "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
     "warningText": "白嫖提醒你：所有资源均为互联网搜集而来，纯公益资源，免费白嫖，没有任何收费性质。"
