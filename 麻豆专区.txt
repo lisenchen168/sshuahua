@@ -28,19 +28,6 @@
                 "剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
                 "直接播放": "1"
             }
-        },{
-            "key": "csp_XYQHiker_xHamster",
-            "name": "🔞xHamster",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/xHamster.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
         },
         
    {"key":"博天堂","name":"🥇博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
@@ -2561,6 +2548,20 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/UAA[密].js"
+        },
+        {
+            "key": "csp_XYQHiker_xHamster",
+            "name": "🔞xHamster",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/xHamster.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
         },
         {
             "key": "csp_XBPQ_骏马",
