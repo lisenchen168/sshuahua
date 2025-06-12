@@ -815,7 +815,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/missav.json",
+            "ext": "https://github.com/lisenchen168/sshuahua/blob/main/missav.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
