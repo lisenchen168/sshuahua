@@ -21,7 +21,7 @@
 "style": {                 
 "type": "rect",                 
 "ratio": 1.6             }        
-}，
+},
 {
             "key": "csp_XYQHiker_missav",
             "name": "🔞MissAV",
