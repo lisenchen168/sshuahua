@@ -834,20 +834,6 @@
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/avtoday-改.js"
         },
         {
-            "key": "csp_XYQHiker_missav",
-            "name": "👍MissAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/missav.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
             "key": "csp_XYQHiker_missav.app",
             "name": "👍MissAV.app",
             "type": 3,
