@@ -10,19 +10,6 @@
 
     "sites": [
 {
-            "key": "csp_XYQHiker_xHamster",
-            "name": "🔞xHamster",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/xHamster.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        }, {
             "key": "csp_XYQHiker_missav",
             "name": "🔞MissAV",
             "type": 3,
