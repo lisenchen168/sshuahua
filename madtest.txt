@@ -11,7 +11,7 @@
     "sites": [
 {            
 "key": "csp_XYQHiker_xHamster",             
-"name": "🔞xHamster",             
+"name": "BIGxHamster",             
 "type": 3,             
 "api": "csp_XYQHiker",             
 "searchable": 1,             
@@ -35,11 +35,24 @@
                 "type": "rect",
                 "ratio": 1.6
             }
- },
+ },{
+            "key": "csp_XYQHiker_xHamster",
+            "name": "中文xHamster",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/xHamster.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        }, 
 
 {
             "key": "麻豆",
-            "name": "🇹🇼【老王成人專區】🇹🇼",
+            "name": "老王G霸專區",
             "type": 3,
             "changeable": 1,
             "filterable": 1,
