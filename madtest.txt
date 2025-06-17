@@ -8,10 +8,45 @@
             ],
 
 
-    "sites": [
+    "sites": [ {
+            "key": "*91麻豆5👍",
+            "name": "👍91麻豆┃高速爽飞",
+            "type": 1,
+            "api": "http://www.bt4.cc/api.php/provide/vod/",
+            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
+            "searchable": 1,
+            "quickSearch": 1
+        },{
+            "key": "php_madou",
+            "name": "👍1080影诱-T4",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+            "spider": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },{
+            "key": "csp_JavDb",
+            "name": "👍1080HD&JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/tokenm.json$$$1",
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "timeout": 60
+        },
 {
             "key": "csp_XYQHiker_missav",
-            "name": "🔞MissAV",
+            "name": "1080hd&MissAV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -24,7 +59,7 @@
             }
         },{
             "key": "csp_XYQHiker_xHamster",
-            "name": "xHamster",
+            "name": "4k&xHamster",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -35,6 +70,20 @@
                 "type": "rect",
                 "ratio": 1.6
             }
+        }, {
+            "key": "csp_JavBus",
+            "name": "👍JavBus(點選點播才有東西)",
+            "type": 3,
+            "api": "csp_JavBus",
+            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/tokenm.json$$$https://www.cdnbus.shop",
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "timeout": 60
         },
 {
             "key": "麻豆",
@@ -250,36 +299,6 @@
             }
         },
         {
-            "key": "csp_JavBus",
-            "name": "👍JavBus(點選點播才有東西)",
-            "type": 3,
-            "api": "csp_JavBus",
-            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/tokenm.json$$$https://www.cdnbus.shop",
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "timeout": 60
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "👍JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/tokenm.json$$$1",
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "timeout": 60
-        },
-        {
             "key": "JAVDAY",
             "name": "👍JAVDAY",
             "type": 3,
@@ -474,20 +493,7 @@
               "类型": "91探花$38#自拍流出$13||高清$6#無碼$7#中文字幕$8#無碼流出$9#三上悠亞$10#FC2$11#素人$40||91視頻$20#福利姬$14#AI明星$41||麻豆$21#91$22#天美$23#蜜桃$24#星空$26#精東$27#糖心$37#性吧$39"
               }
         },
-        {
-            "key": "php_madou",
-            "name": "👍麻豆-T4",
-            "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
-            "spider": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
+        
         {
             "key": "91電影網",
             "name": "👍91倫理網",
@@ -703,15 +709,7 @@
             "searchable": 1,
             "quickSearch": 1
         },
-        {
-            "key": "*91麻豆5👍",
-            "name": "👍91麻豆┃備5",
-            "type": 1,
-            "api": "http://www.bt4.cc/api.php/provide/vod/",
-            "jar": "https://gitee.com/gztzdy/tvbox/raw/d/18s/pg.jar",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+       
         {
             "key": "麻豆",
             "name": "👍91麻豆┃備6",
