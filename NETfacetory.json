@@ -1,0 +1,15 @@
+{
+	"主页url": "https://www.netflixgc.com/",
+	"简介": "class=\"text cor3\">&&</div>",
+	"搜索url": "https://www.netflixgc.com/vodsearch/-------------.html?wd={wd}",
+	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	"数组": "<div class=\"public-list-button\">&&</div>",
+	"副标题": ">&&</a>",
+	"图片": "data-src=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "演员：&&</div>",
+	"线路数组": "data-from=&&</a>[排序:独享2K][排序:蓝光-5][排序:蓝光-7][排序:APP独享(下载APP观影)]",
+	"线路标题": "+>&&</em>[替换:<em>>>共]+集",
+	"分类url": "https://www.netflixgc.com/vodshow/{cateId}-----------.html",
+	"分类": "电影$1#电视剧$2#综艺$4#动漫$3"
+}
