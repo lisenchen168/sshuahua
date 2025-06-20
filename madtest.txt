@@ -1,6 +1,6 @@
 ﻿{
     "spider": "https://gitee.com/gztzdy/tvbox/raw/d/18s/xyq.jar",
-    "logo": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/美.gif",
+    "logo": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/42797e69bda3474cb65901634706cc9f.gif",
     "wallpaper": "https://picsum.photos/1080/",
     "lives":[
               {"name":"小武哥(18+)","playerType":2,"url":"https://qu.ax/PEHy.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
