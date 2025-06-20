@@ -77,7 +77,7 @@
                 "ratio": 1.6
             }
         },
-            "key": "麻豆",
+           { "key": "麻豆",
             "name": "【老王成人專區】",
             "type": 3,
             "changeable": 1,
