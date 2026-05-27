@@ -7,6 +7,8 @@
 "spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",
 "wallpaper":"https://xn--spsx60cgim8pd.xxooo.cf/",
 "sites":[
+{"key":"热播影视","name":"热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
+
 {"key":"豆瓣","name":"全资源｜耐心接口","type":3,"api":"csp_Douban","searchable":0},
 {"key":"hipy_js_guazi","name":"瓜子｜影视","type":3,"api":"https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://150.158.112.123/公众号玉玉应用笔记/js/guazi.js"},
 {"key":"狐狸君","name":"狐狸｜4K","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://150.158.112.123/公众号玉玉应用笔记/js/6v.json"},
